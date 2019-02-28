@@ -69,7 +69,7 @@ Then to use Deployer, run the following command:
 php vendor/bin/dep
 ```
 
-### Own builded phar
+### Self built phar
 
 If you want to build Deployer from the source code, clone the project from GitHub:
 
